@@ -25,8 +25,6 @@ the structure is something like this:
 - 3D point set visualization
 - multi-view pointset generation
 
-## References
-[MIT][12]
 
 [1]: http://ai.stanford.edu/~haosu/papers/SI2PC_arxiv_submit.pdf
 

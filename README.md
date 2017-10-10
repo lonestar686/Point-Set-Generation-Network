@@ -3,7 +3,6 @@
 It is a pytorch implementation of [A Point Set Generation Network for 3D Object Reconstruction from a Single Image ][1]
 
 Dataset can be download from here: [dataset](http://web.stanford.edu/~ericyi/project_page/part_annotation/index.html). 
-Keyword: Machine Translation
 
 ## abstract 
 Generation of 3D data by deep neural network has been attracting increasing attention in the research community. The majority of extant works resort to regular
